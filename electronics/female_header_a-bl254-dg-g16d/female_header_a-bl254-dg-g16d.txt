@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-23062010-091210";"";
+"TraceParts.ClassPath";"ASSMANN:/ROOT/C31/C31.T01/C31.T01.T02/10-23062010-091210";"";
+"TraceParts.InstanceId";"10-23062010-091210C7M8DRGXJXYAUI6BV6836DLNN";"";
+"REFERENCE";"A-BL254-DG-G16D";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"DESIGN";"Female header, pitch 2.54mm, straight, double row, 16 contacts, plating : Gold flash";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartTitle";"Female header, pitch 2.54mm, straight, double row, 04 - 80 contacts";"";
+"TraceParts.PartVersion";"1.1.3";"";
